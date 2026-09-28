@@ -6,8 +6,8 @@ I spent 7+ years in the design field. These days I like working in that blur of 
 
 ## What I'm making
 
-- **Fanny** — a Tamagotchi-style screen-time companion for iOS. A small Rive-animated creature who reacts to how you spend your time..
-- **BogeyBird** — a educational bird app for iOS with a game-focused mechanics.
+- **Fanny** — a Tamagotchi-style screen-time companion for iOS. A small Rive-animated creature who reacts to how you spend your time.
+- **BogeyBird** — educational iOS bird app with a game-focused mechanics.
 
 ## Where I've been
 
